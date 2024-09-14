@@ -1,7 +1,8 @@
 ## Dataset
-Data set contains 2 columns
-Load_data: KWH
-Temprature: outside temprature of the area in Celsius 
+Dataset contains 2 columns
+
+* Load_data: KWH
+* Temprature: outside temprature of the area in Celsius 
 
 
 
